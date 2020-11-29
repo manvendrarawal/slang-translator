@@ -9,7 +9,7 @@
 - Result would be --> Hey Manvendra Be Right Back
   ```
     userInput = Hey Manvendra brb!!
-    output = Hey ManvendraBe Right Back
+    output = Hey Manvendra Be Right Back
   ```
 
 ## Main Working logic
